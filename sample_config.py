@@ -1,4 +1,4 @@
-BOT_TOKEN = "5165959972:AAEXWdylwty0pVDz6X_8hZw1NL8EqTfNByk"
+BOT_TOKEN = "5926143600:AAHcqLwRHwIQ1GKFjTlCrxRM75eCyaw8tns"
 API_ID = 14782914
 SESSION_STRING = "" # Check Readme to generate sessions; need for userbot
 API_HASH = "3aa2fabe1074632cf6e2b01da083a2c6"
